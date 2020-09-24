@@ -1,5 +1,11 @@
 # Case Study - Hypothesis Testing
 
+## Where stuff is 
+* `notebooks/student.ipynb` -> notebook where work goes
+* `data/northWind.sqlite` -> dataset you'll be using
+* `images/` -> put any images you use here
+* `notebooks/` -> if you make extra notebooks, put them here
+
 ## Instructions
 * Answer the following questions using sampling distributions
 * For each question
